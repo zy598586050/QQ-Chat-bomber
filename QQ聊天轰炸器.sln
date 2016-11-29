@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QQ聊天轰炸器", "QQ聊天轰炸器\QQ聊天轰炸器.csproj", "{55A840FF-9A2B-4BA5-84F3-01F859D731A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A840FF-9A2B-4BA5-84F3-01F859D731A7}.Debug|x86.ActiveCfg = Debug|x86
+		{55A840FF-9A2B-4BA5-84F3-01F859D731A7}.Debug|x86.Build.0 = Debug|x86
+		{55A840FF-9A2B-4BA5-84F3-01F859D731A7}.Release|x86.ActiveCfg = Release|x86
+		{55A840FF-9A2B-4BA5-84F3-01F859D731A7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
